@@ -1,0 +1,19 @@
+{
+  "name": "website",
+  "version": "1.0.0",
+  "description": "My website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aristonlorenzo/aristonlorenzo.github.io.git"
+  },
+  "author": "Ariston Lorenzo",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/aristonlorenzo/aristonlorenzo.github.io/issues"
+  },
+  "homepage": "https://github.com/aristonlorenzo/aristonlorenzo.github.io#readme"
+}
